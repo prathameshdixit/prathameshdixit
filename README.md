@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Prathamesh Dixit</h1>
-<h3 align="center">A passionate software developer from San Jose</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+<h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Prathamesh+Dixit;I'm+a+Software+Developer" alt="Typing SVG" /></a>
+</h1>
 - 🌱 I’m currently learning **Dell Boomi**
 
 - 👯 I’m looking to collaborate on **Software Development**
@@ -24,4 +23,8 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdixit&layout=compact&theme=radical"/></a>
+</p>
+<p align="center">
+<a href="https://visitcount.itsvg.io">
+<img src="https://visitcount.itsvg.in/api?id=prathameshdixit&icon=0&color=7"/></a>
 </p>
