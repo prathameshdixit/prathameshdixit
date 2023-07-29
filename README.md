@@ -21,6 +21,7 @@
 <a href="https://instagram.com/pratham_0118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pratham_0118" height="30" width="40" /></a>
 </p>
 <h3 align="left">Most used Languages:</h3>
-<sub><p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdixit&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-</p></sub>
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdixit&layout=compact&theme=radical"/></a>
+</p>
