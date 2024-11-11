@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **finetuning LLMs**
 
-- 📫 How to reach me **prathmeshydixit@gmail.com**
+- 📫 How to reach me **prathamesh.dixit1899@gmail.com**
 
 - ⚡ Fun fact **Did you know: onions, potatoes and apples have same taste**
 
