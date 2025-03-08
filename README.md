@@ -23,7 +23,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshdixit&layout=compact&theme=radical"/></a>
 </p>
-<p align="center">
-<a href="https://visitcount.itsvg.io">
-<img src="https://visitcount.itsvg.in/api?id=prathameshdixit&icon=0&color=7"/></a>
-</p>
+<a href='https://github.com/prathameshdixit/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/prathameshdixit/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/prathameshdixit/github-stats-transparent/output/generated/languages.svg)
+
+</a>
